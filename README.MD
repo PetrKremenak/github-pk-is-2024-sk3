@@ -1,1 +1,1 @@
-kunda zkurvená, změna
+kunda zkurvená, změna hovno
