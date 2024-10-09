@@ -1,1 +1,1 @@
-kunda zkurvená
+kunda zkurvená, změna
