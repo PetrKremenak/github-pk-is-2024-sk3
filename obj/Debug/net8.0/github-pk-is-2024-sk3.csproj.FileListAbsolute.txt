@@ -1,0 +1,15 @@
+c:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\bin\Debug\net8.0\github-pk-is-2024-sk3.exe
+c:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\bin\Debug\net8.0\github-pk-is-2024-sk3.deps.json
+c:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\bin\Debug\net8.0\github-pk-is-2024-sk3.runtimeconfig.json
+c:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\bin\Debug\net8.0\github-pk-is-2024-sk3.dll
+c:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\bin\Debug\net8.0\github-pk-is-2024-sk3.pdb
+c:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\obj\Debug\net8.0\github-pk-is-2024-sk3.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\obj\Debug\net8.0\github-pk-is-2024-sk3.AssemblyInfoInputs.cache
+c:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\obj\Debug\net8.0\github-pk-is-2024-sk3.AssemblyInfo.cs
+c:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\obj\Debug\net8.0\github-pk-is-2024-sk3.csproj.CoreCompileInputs.cache
+c:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\obj\Debug\net8.0\github-pk-is-2024-sk3.sourcelink.json
+c:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\obj\Debug\net8.0\github-pk-is-2024-sk3.dll
+c:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\obj\Debug\net8.0\refint\github-pk-is-2024-sk3.dll
+c:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\obj\Debug\net8.0\github-pk-is-2024-sk3.pdb
+c:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\obj\Debug\net8.0\github-pk-is-2024-sk3.genruntimeconfig.cache
+c:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\obj\Debug\net8.0\ref\github-pk-is-2024-sk3.dll
