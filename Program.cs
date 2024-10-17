@@ -1,3 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Test 2");
+﻿namespace první_program{
+class program{
+static void Hlavní_Část(){
+
+}
+
+}
+}
