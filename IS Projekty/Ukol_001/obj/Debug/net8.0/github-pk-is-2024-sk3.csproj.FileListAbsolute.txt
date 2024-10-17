@@ -21,3 +21,11 @@ C:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\IS Projekty\Úkol_001\obj\Deb
 C:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\IS Projekty\Úkol_001\obj\Debug\net8.0\github-pk-is-2024-sk3.dll
 C:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\IS Projekty\Úkol_001\obj\Debug\net8.0\refint\github-pk-is-2024-sk3.dll
 C:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\IS Projekty\Úkol_001\obj\Debug\net8.0\github-pk-is-2024-sk3.pdb
+C:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\IS Projekty\Ukol_001\obj\Debug\net8.0\github-pk-is-2024-sk3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\IS Projekty\Ukol_001\obj\Debug\net8.0\github-pk-is-2024-sk3.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\IS Projekty\Ukol_001\obj\Debug\net8.0\github-pk-is-2024-sk3.AssemblyInfo.cs
+C:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\IS Projekty\Ukol_001\obj\Debug\net8.0\github-pk-is-2024-sk3.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\IS Projekty\Ukol_001\obj\Debug\net8.0\github-pk-is-2024-sk3.sourcelink.json
+C:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\IS Projekty\Ukol_001\obj\Debug\net8.0\github-pk-is-2024-sk3.dll
+C:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\IS Projekty\Ukol_001\obj\Debug\net8.0\refint\github-pk-is-2024-sk3.dll
+C:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\IS Projekty\Ukol_001\obj\Debug\net8.0\github-pk-is-2024-sk3.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Documents\\IS1\\github-pk-is-2024-sk3\\IS Projekty\\Úkol_001\\github-pk-is-2024-sk3.csproj": {}
+    "C:\\Users\\admin\\Documents\\IS1\\github-pk-is-2024-sk3\\IS Projekty\\Ukol_001\\github-pk-is-2024-sk3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Documents\\IS1\\github-pk-is-2024-sk3\\IS Projekty\\Úkol_001\\github-pk-is-2024-sk3.csproj": {
+    "C:\\Users\\admin\\Documents\\IS1\\github-pk-is-2024-sk3\\IS Projekty\\Ukol_001\\github-pk-is-2024-sk3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Documents\\IS1\\github-pk-is-2024-sk3\\IS Projekty\\Úkol_001\\github-pk-is-2024-sk3.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Documents\\IS1\\github-pk-is-2024-sk3\\IS Projekty\\Ukol_001\\github-pk-is-2024-sk3.csproj",
         "projectName": "github-pk-is-2024-sk3",
-        "projectPath": "C:\\Users\\admin\\Documents\\IS1\\github-pk-is-2024-sk3\\IS Projekty\\Úkol_001\\github-pk-is-2024-sk3.csproj",
+        "projectPath": "C:\\Users\\admin\\Documents\\IS1\\github-pk-is-2024-sk3\\IS Projekty\\Ukol_001\\github-pk-is-2024-sk3.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Documents\\IS1\\github-pk-is-2024-sk3\\IS Projekty\\Úkol_001\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Documents\\IS1\\github-pk-is-2024-sk3\\IS Projekty\\Ukol_001\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
