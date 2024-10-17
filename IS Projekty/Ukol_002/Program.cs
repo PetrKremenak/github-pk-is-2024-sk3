@@ -1,2 +1,10 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+using
+namespace Soucet_cisel_zpusob1{
+class Program{
+    static void main{
+int a, b,;
+
+    }
+}
+}
