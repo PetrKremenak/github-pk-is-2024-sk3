@@ -46,7 +46,7 @@ class Program{
             // příprava pro generátor náhodných čísel
             Random randomNumber = new Random();
             for (int i = 0; i<n; i++){
-                MyArray[i] = randomNumber.Next(dm, hm);
+                MyArray[i] = randomNumber.Next(dm, hm+1);
                 Console.Write("{0};", MyArray[i]);
             }
             
