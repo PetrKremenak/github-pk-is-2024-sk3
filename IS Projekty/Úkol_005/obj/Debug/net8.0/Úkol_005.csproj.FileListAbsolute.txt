@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\IS Projekty\Úkol_005\bin\Debug\net8.0\Úkol_005.exe
+C:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\IS Projekty\Úkol_005\bin\Debug\net8.0\Úkol_005.deps.json
+C:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\IS Projekty\Úkol_005\bin\Debug\net8.0\Úkol_005.runtimeconfig.json
+C:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\IS Projekty\Úkol_005\bin\Debug\net8.0\Úkol_005.dll
+C:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\IS Projekty\Úkol_005\bin\Debug\net8.0\Úkol_005.pdb
+C:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\IS Projekty\Úkol_005\obj\Debug\net8.0\Úkol_005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\IS Projekty\Úkol_005\obj\Debug\net8.0\Úkol_005.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\IS Projekty\Úkol_005\obj\Debug\net8.0\Úkol_005.AssemblyInfo.cs
+C:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\IS Projekty\Úkol_005\obj\Debug\net8.0\Úkol_005.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\IS Projekty\Úkol_005\obj\Debug\net8.0\Úkol_005.sourcelink.json
+C:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\IS Projekty\Úkol_005\obj\Debug\net8.0\Úkol_005.dll
+C:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\IS Projekty\Úkol_005\obj\Debug\net8.0\refint\Úkol_005.dll
+C:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\IS Projekty\Úkol_005\obj\Debug\net8.0\Úkol_005.pdb
+C:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\IS Projekty\Úkol_005\obj\Debug\net8.0\Úkol_005.genruntimeconfig.cache
+C:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\IS Projekty\Úkol_005\obj\Debug\net8.0\ref\Úkol_005.dll

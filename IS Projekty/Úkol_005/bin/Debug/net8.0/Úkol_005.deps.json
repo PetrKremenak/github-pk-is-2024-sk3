@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Úkol_005/1.0.0": {
+        "runtime": {
+          "Úkol_005.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Úkol_005/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
