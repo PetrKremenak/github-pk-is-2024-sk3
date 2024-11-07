@@ -49,13 +49,25 @@ class Program{
                 MyArray[i] = randomNumber.Next(dm, hm+1);
                 Console.Write("{0};", MyArray[i]);
             }
-            
+            int max = MyArray[0];
+            int min = MyArray[0];
+            int posMax = 0;
+            int posMin = 0;
+            for(int i = 1; i < n; i++){
+                if(MyArray[i] > max){
+                    max = MyArray[i];
+                }
+                if(MyArray[i] < min){
+                    min = MyArray[i];
+                }
+            Console.WriteLine("\n\n Maximum = {0}, Pozice čísla v poli{1}", max, posMax);
+            Console.WriteLine("Minimum = {0}, Pozice čísla v poli {1}", min, posMax);
             
             Console.WriteLine();
             Console.WriteLine();
             Console.WriteLine("Program můžete opakovat stiskem klávesy 'a'");
             again = Console.ReadLine();    
-            }
+            
         
     
 
