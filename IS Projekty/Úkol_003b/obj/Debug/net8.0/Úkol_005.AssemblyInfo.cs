@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Úkol_005")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be7dae4a1a93d6aea312440f7da6612c6e8dcb81")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7fcc972e39898abedae472fb502e1b82f3d81756")]
 [assembly: System.Reflection.AssemblyProductAttribute("Úkol_005")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Úkol_005")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
