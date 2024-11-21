@@ -13,3 +13,11 @@ C:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\IS Projekty\Úkol_004\obj\Deb
 C:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\IS Projekty\Úkol_004\obj\Debug\net8.0\Úkol_004.pdb
 C:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\IS Projekty\Úkol_004\obj\Debug\net8.0\Úkol_004.genruntimeconfig.cache
 C:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\IS Projekty\Úkol_004\obj\Debug\net8.0\ref\Úkol_004.dll
+C:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\IS Projekty\Program_00b - generátor pseudonáhodných čísel\obj\Debug\net8.0\Úkol_004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\IS Projekty\Program_00b - generátor pseudonáhodných čísel\obj\Debug\net8.0\Úkol_004.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\IS Projekty\Program_00b - generátor pseudonáhodných čísel\obj\Debug\net8.0\Úkol_004.AssemblyInfo.cs
+C:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\IS Projekty\Program_00b - generátor pseudonáhodných čísel\obj\Debug\net8.0\Úkol_004.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\IS Projekty\Program_00b - generátor pseudonáhodných čísel\obj\Debug\net8.0\Úkol_004.sourcelink.json
+C:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\IS Projekty\Program_00b - generátor pseudonáhodných čísel\obj\Debug\net8.0\Úkol_004.dll
+C:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\IS Projekty\Program_00b - generátor pseudonáhodných čísel\obj\Debug\net8.0\refint\Úkol_004.dll
+C:\Users\admin\Documents\IS1\github-pk-is-2024-sk3\IS Projekty\Program_00b - generátor pseudonáhodných čísel\obj\Debug\net8.0\Úkol_004.pdb

@@ -1,11 +1,10 @@
 ﻿using System.Security.Authentication.ExtendedProtection;
-using System.Diagnostics;
 
 string again = "a";
         while(again == "a") {
             //Console.Clear();
             Console.WriteLine("***********************************************");
-            Console.WriteLine("******* Generátor pseudonáhodných čísel *******");
+            Console.WriteLine("******* Generátor - intervaly *******");
             Console.WriteLine("***********************************************");
             Console.WriteLine("**************** Tomáš Žižka ******************");
             Console.WriteLine("***********************************************\n\n");
@@ -42,44 +41,37 @@ string again = "a";
             Random randomNumber = new Random();
 
             Console.WriteLine("Náhodná čísla: ");
+            int interval_01=0;
+            int interval_02=0;
+            int interval_03=0;
+            int interval_04=0;
 
             for(int i=0; i<n; i++) {
                 myArray[i] = randomNumber.Next(dm, hm+1);
                 Console.Write("{0}; ", myArray[i]);
-            }
-            
-            Stopwatch myStopwatch = new Stopwatch(); 
 
-            int numberCompare = 0;
-            int numberChange = 0;
-            myStopwatch.Start();
-            for(int i=0; i<n-1; i++) {
-                for(int j=0 ; j<n-i-1; j++) {
-                    numberCompare++;
-                    if(myArray[j] > myArray[j+1]) {
-                        int tmp = myArray[j];
-                        myArray[j] = myArray[j+1];
-                        myArray[j+1] = tmp;
-                        numberChange++;
-                    }
+                if(myArray[i] <= (0.25 * hm)) {
+                    interval_01++;
                 }
+                else if(myArray[i] <= (0.5 * hm)) {
+                    interval_02++;
+                }
+                else if(myArray[i] <= (0.75 * hm)) {
+                    interval_03++;
+                }
+                else
+                    interval_04++; 
             }
-            myStopwatch.Stop();
 
-
-            Console.WriteLine("\n\nSeřazené pole: ");
-            for(int i=0; i<n; i++) {
-                Console.Write("{0}; ", myArray[i]);
-            }
-
-            Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.BackgroundColor = ConsoleColor.DarkBlue;
-            Console.WriteLine("\n\nČas potřebný na seřazení pole algoritmem Bubble Sort: {0}", myStopwatch.Elapsed);
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine("\n\nInterval <{0};{1}>: {2}", dm, 0.25*hm, interval_01);
+            Console.ForegroundColor = ConsoleColor.Cyan;
+            Console.WriteLine("Interval <{0};{1}>: {2}", 0.25*hm+1, 0.5 * hm, interval_02);
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine("Interval <{0};{1}>: {2}", 0.5*hm+1, 0.75 * hm, interval_03);
+            Console.ForegroundColor = ConsoleColor.Cyan;
+            Console.WriteLine("Interval <{0};{1}>: {2}", 0.75*hm+1, hm, interval_04);
             
-            Console.WriteLine("\n\nPočet porovnání: {0}", numberCompare);
-            Console.WriteLine("Počet výměn: {0}", numberChange);
-            
-            Console.ResetColor();
             // Opakování programu
             Console.WriteLine("\n\nPro opakování programu stiskněte klávesu a");
             again = Console.ReadLine();
