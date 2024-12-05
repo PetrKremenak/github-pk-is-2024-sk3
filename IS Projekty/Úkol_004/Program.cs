@@ -10,29 +10,24 @@ class Program{
 
             Console.Clear();
             Console.WriteLine("*****************************************");
-            Console.WriteLine("**** Generátor pseudonáhodných čísel ****");
+            Console.WriteLine("**** Převod z desítkové do dvojkové  ****");
             Console.WriteLine("************** Křemenák Petr ************");
             Console.WriteLine("*****************************************");
             Console.WriteLine();
             Console.WriteLine();
 
-            Console.Write("Zadejte počet generovaných čísel (celé číslo): ");
+            Console.Write("Zadejte čísla na převod do dvojkové soustavy ");
+            ;
             int n;
+            uint cislo = Convert.ToUInt32(Console.ReadLine());
+            uint zaloha = cislo;
+            uint zbytek;
+            uint[] myArray = new uint[32];
             while(!int.TryParse(Console.ReadLine(), out n)) {
                 Console.Write("Nezadali jste celé číslo. Zadejte počet čísel znovu (celé číslo): ");
             }
 
-            Console.Write("Zadejte dolní mez (celé číslo): ");
-            int dm;
-            while(!int.TryParse(Console.ReadLine(), out dm)) {
-                Console.Write("Nezadali jste celé číslo. Zadejte dolní mez znovu (celé číslo): ");
-            }
-
-            Console.Write("Zadejte horní mez (celé číslo): ");
-            int hm;
-            while(!int.TryParse(Console.ReadLine(), out hm)) {
-                Console.Write("Nezadali jste celé číslo. Zadejte horní mez znovu (celé číslo): ");
-            }
+            
 
 
 
@@ -40,60 +35,29 @@ class Program{
             Console.WriteLine();
             Console.WriteLine("========================================================");
             Console.WriteLine("Zadané hodnoty: ");
-            Console.WriteLine("Počet čísel: {0}; dolní mez: {1}; horní mez: {2}", n, dm, hm);
             Console.WriteLine("========================================================\n\n");
-            
-            //Deklarace pole o velikosti n-prvků
-            int[] MyArray = new int[n];
-            int nulova = 0;
-            int kladna = 0;
-            int zaporna = 0;
-            int suda = 0;
-            int licha = 0;
+            uint i=0;
+            while(cislo > 0){
+                zbytek = cislo % 2;
+                cislo = (cislo - zbytek) / 2;
+                myArray[i] = zbytek;
 
-            // příprava pro generátor náhodných čísel
-            Random randomNumber = new Random();
-            for (int i = 0; i<n; i++){
-                MyArray[i] = randomNumber.Next(dm, hm+1);
-                Console.Write("{0};", MyArray[i]);
-
-                //if(MyArray[i] > 0)
-                //kladna++;
-               // break;
-                //if(MyArray[i] == 0)
-                //nulova++;
-                //break;
-                //if(MyArray[i] < 0)
-                //zaporna++;
-                //break;
-                if(MyArray[i] > 0){
-                    kladna++;
-                }
-                else if (MyArray[i] < 0){
-                    zaporna++;
-                }
-                else {
-                    nulova++;
-                }
-                if (MyArray[i] %2 == 0){
-                    suda++;
-                }
-                else{
-                    licha++;
-                }
-
+                Console.BackgroundColor = ConsoleColor.DarkGreen;
+                Console.WriteLine("Celá část = {0}, zbytek = {1}", cislo, zbytek);
+    
+                i++;
             }
-            Console.WriteLine("\n\nPočet kladných čísel: {0}", kladna);
-            Console.WriteLine("Počet záporných čísel: {0}", zaporna);
-            Console.WriteLine("\n\nPočet nul: {0}", nulova);
-            Console.WriteLine("\n\nPočet sudých čísel: {0}", suda);
-            Console.WriteLine("\n\nPočet lichých čísel: {0}", licha);
-            
-            
-            Console.WriteLine();
-            Console.WriteLine();
-            Console.WriteLine("Program můžete opakovat stiskem klávesy 'a'");
-            again = Console.ReadLine();    
+            Console.WriteLine("\n Poslední použitá buňka pole {0}", i-1);
+            Console.ForegroundColor = ConsoleColor.White;
+            Console.WriteLine("\n Číslo {0} převedené do binární soustavy", zaloha);
+            for (uint j = i-1; j>=0 ; j-- ){
+                Console.WriteLine("{0}", myArray[j]);
+            }
+
+
+
+
+
             }
         
     
